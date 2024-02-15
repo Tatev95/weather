@@ -1,0 +1,11 @@
+.search_input {
+  width: 150px;
+  border: none;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.error {
+  color: rgb(207, 76, 76);
+  margin-top: 10px;
+}

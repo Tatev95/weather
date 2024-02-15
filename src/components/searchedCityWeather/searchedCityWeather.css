@@ -1,0 +1,28 @@
+.weather_content {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin-top: 20px;
+  border: 1px solid gray;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.weather_list {
+  width: 50px;
+  background-color: rgb(131, 143, 194);
+  border-radius: 10px;
+  color: black;
+}
+
+.time {
+  display: flex;
+  justify-content: space-between;
+}
+
+.hour {
+  display: flex;
+  justify-content: space-between;
+  width: 300px;
+  background-color: red;
+}

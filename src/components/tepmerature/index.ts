@@ -1,0 +1,1 @@
+export { Tepmerature } from "./Tepmerature";
